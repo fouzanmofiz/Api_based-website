@@ -51,4 +51,4 @@ Loading Indicators: Add visual feedback while news articles are being fetched.
 Accessibility: Improve accessibility by adding ARIA attributes and ensuring keyboard navigation.
 More Categories: Add more news categories.
 
-## Tech used-  Html, CSS, JavaScript
+## Tech used-  HTML, CSS, JAVASCRIPT
